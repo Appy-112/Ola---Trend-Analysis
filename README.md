@@ -40,17 +40,9 @@ Segregation of the views:
 ## 📂 Project Files
 
 - `ola_cancellation_analysis.pbix` – The complete Power BI dashboard file
-- `Dataset/` – Cleaned dataset in `.csv` format (if public)
+- `Dataset/` – Cleaned dataset in `.excel` format (if public)
 - `Images/` – Screenshots of key dashboard visuals
 - `Report/` – Optional PDF export of report visuals
-
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Preview](Images/dashboard-overview.png)
-
-_(Add screenshots in the `Images` folder and update this link accordingly.)_
 
 ---
 
